@@ -21,8 +21,6 @@ Das Videoformat ist mp4. Auf Anfrage können ggf. andere Formate zur Verfügung 
 
 ### Einige Screenshots der Videos
 
-![Intro](/./images/intro.png)
-
 ![projektaufsetzen](/./images/projektaufsetzen.png)
 
 ![Beispiel Milestone](/./images/beispiel-milestone.png)
