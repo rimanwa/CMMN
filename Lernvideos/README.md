@@ -23,7 +23,7 @@ Eindrücke:
 
 images/beispiel-agendaubersicht.png
 
-![Intro](./images/intro.png)
+![Intro](/./images/intro.png)
 
 
 ![projektaufsetzen](images/projektaufsetzen.png)
