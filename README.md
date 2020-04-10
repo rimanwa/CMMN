@@ -2,7 +2,7 @@
 
 <a href="#footer">Download des Lernmaterials (ca. 70MB)</a>
 
-Ich habe vor einigen Semestern Selbst-Lernvideos in deutscher Sprache zum OMG-Standard CMMN Case Model and Notation (Version 1.1) für eine Lehrveranstaltung produziert.
+Selbst-Lernvideos in deutscher Sprache zum OMG-Standard CMMN Case Model and Notation (Version 1.1) für Lehrveranstaltung und Weiterbildungen
 
 - [4 Videoclips a ca. 8 Minuten CMMN](Lernvideos)
   - an einem durchgängigen Anwendungsbeispiel erklärt (die Notation wird also direkt am Beispiel erklärt)
@@ -10,12 +10,7 @@ Ich habe vor einigen Semestern Selbst-Lernvideos in deutscher Sprache zum OMG-St
 - Einige [Multiple-Choice-Kontrollfragen](Kontrollfragen) zu jedem Clip
 - Eine [CMMN-Modellierungsaufgabe](Uebungsaufgabe) "Klausur durchführen" inklusive Lösungsvorschlag
 
-Ich habe die Selbst-Lernvideos nun schon einige Male eingesetzt und durchweg positive Rückmeldungen der Studierenden. Zudem konnte die Modellierungsaufgabe von den meisten sehr gut eigenständig auf Basis der Videos gelöst werden. Ich stelle sehr gerne interessierten Kollegen mein Material für die Lehre zur Verfügung Ich denke, dass das gerade jetzt in der Corona-Situation von besonderem Interesse sein könnte.
-
-Beste Grüße
-Armin Wagenknecht
-
-
+Die Selbst-Lernvideos wurden schon einige Male in einer Lehrveranstaktung eingesetzt. Die Studierenden gaben positive Rückmeldungen. Zudem konnte die Modellierungsaufgabe von den meisten sehr gut eigenständig auf Basis der Videos gelöst werden. 
 
 
 <a name="footer"></a>
