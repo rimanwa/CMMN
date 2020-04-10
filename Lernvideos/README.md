@@ -19,16 +19,12 @@ Gesamtlänge:32:51	min
 
 Das Videoformat ist mp4. Auf Anfrage können ggf. andere Formate zur Verfügung gestellt werden.
 
-Eindrücke:
-
-images/beispiel-agendaubersicht.png
+Eindrücke: Screenshots Videos
 
 ![Intro](/./images/intro.png)
 
+![projektaufsetzen](/./images/projektaufsetzen.png)
 
-![projektaufsetzen](images/projektaufsetzen.png)
+![Beispiel Milestone](/./images/beispiel-milestone.png)
 
-
-![Beispiel Milestone](images/beispiel-milestone.png)
-
-![Beispiel Agendaübersicht](images/eispiel-agendaubersicht.png)
+![Beispiel Agendaübersicht](/./images/eispiel-agendaubersicht.png)
