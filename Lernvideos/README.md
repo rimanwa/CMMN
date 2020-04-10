@@ -21,7 +21,9 @@ Das Videoformat ist mp4. Auf Anfrage können ggf. andere Formate zur Verfügung 
 
 Eindrücke:
 
-![Intro](images/intro.png)
+images/beispiel-agendaubersicht.png
+
+![Intro](./images/intro.png)
 
 
 ![projektaufsetzen](images/projektaufsetzen.png)
