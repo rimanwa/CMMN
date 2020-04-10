@@ -27,4 +27,4 @@ Eindrücke: Screenshots Videos
 
 ![Beispiel Milestone](/./images/beispiel-milestone.png)
 
-![Beispiel Agendaübersicht](/./images/eispiel-agendaubersicht.png)
+![Beispiel Agendaübersicht](/./images/beispiel-agendaubersicht.png)
