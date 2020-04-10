@@ -10,10 +10,10 @@ Lernvideos zu CMMN die in einem Modul an der Technischen Hochschule Mittelhessen
 
 ### Lernvideos
 
-- Video 1	(7:04 min): Grundelemente (Tasks, Stages)
-- Video 2	(11:37 min): Kriterien und Verbinder (Sentries, Connector, Milestones)
-- Video 3	(7:23 min): Ereignisse und zusätzliche Eigenschaften (Decorator)
-- Video 4	(06:47 min): Flexible Elemente (Discretionary, Planning Tables)
+- Video 1	(ca. 7 min): Grundelemente (Tasks, Stages)
+- Video 2	(ca. 12 min): Kriterien und Verbinder (Sentries, Connector, Milestones)
+- Video 3	(ca. 8 min): Ereignisse und zusätzliche Eigenschaften (Decorator)
+- Video 4	(ca. 7 min): Flexible Elemente (Discretionary, Planning Tables)
 
 Gesamtlänge:32:51	min
 
