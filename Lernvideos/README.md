@@ -19,14 +19,12 @@ Gesamtlänge:32:51	min
 
 Das Videoformat ist mp4. Auf Anfrage können ggf. andere Formate zur Verfügung gestellt werden.
 
-Eindrücke:
+Eindrücke: Screenshots Videos
 
-![Intro](images/2020/04/intro.png)
+![Intro](/./images/intro.png)
 
+![projektaufsetzen](/./images/projektaufsetzen.png)
 
-![projektaufsetzen](images/2020/04/projektaufsetzen.png)
+![Beispiel Milestone](/./images/beispiel-milestone.png)
 
-
-![Beispiel Milestone](images/2020/04/beispiel-milestone.png)
-
-![Beispiel Agendaübersicht](images/2020/04/beispiel-agendaubersicht.png)
+![Beispiel Agendaübersicht](/./images/beispiel-agendaubersicht.png)
