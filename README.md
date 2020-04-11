@@ -2,7 +2,7 @@
 
 <a href="#footer">Download des Lernmaterials (ca. 70MB)</a>
 
-Selbst-Lernvideos in deutscher Sprache zum OMG-Standard CMMN Case Model and Notation (Version 1.1) für Lehrveranstaltung und Weiterbildungen
+Selbst-Lernvideos in deutscher Sprache zum OMG-Standard CMMN Case Model and Notation (Version 1.1) für Lehrveranstaltungen und Weiterbildungen
 
 - [4 Videoclips a ca. 8 Minuten CMMN](Lernvideos)
   - an einem durchgängigen Anwendungsbeispiel erklärt (die Notation wird also direkt am Beispiel erklärt)
